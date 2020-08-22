@@ -94,6 +94,7 @@ h1{
   background: rgba(255,255,255,0.3);
   padding:5% ; 
   height:auto;
+  box-shadow: 2px 8px 6px #3c98c19c;
 }
 .row {
   content: "";
@@ -243,7 +244,7 @@ position:fixed;
 z-index:-3;
 height: 100%;
 width: 100%;
-background: linear-gradient(180deg, #4398ead6, #f8ffffcc);
+background: linear-gradient(170deg, #4398ead6, #f8ffffcc);
 height: 100vh;
 }
 
